@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
+
 - 📫 How to reach me: anamaria.finn0@gmail.com
+
 ![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]
 
 
