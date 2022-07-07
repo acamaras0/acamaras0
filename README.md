@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
+- 📫 How to reach me: anamaria.finn0@gmail.com
+![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]
+
+
+
+
 <!--
 **acamaras0/acamaras0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
