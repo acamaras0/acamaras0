@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📚 Previous experience: C language, PHP, CSS, HTML.
 
-- 🌱 I’m currently learning: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
+- 🌱 I’m currently learning: React, Redux, Node.js, MongoDB
 
 - 📫 How to reach me: 
  💌 anamaria.finn0@gmail.com
