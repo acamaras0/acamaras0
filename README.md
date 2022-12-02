@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📚 Previous experience: C language, PHP, MySql, CSS, HTML.
+- 📚 Previous experience:  React, Redux, Node.js, PHP, C language, MySql, CSS, HTML.
 
 - 🌱 I’m currently learning: React, Redux, Node.js
 
