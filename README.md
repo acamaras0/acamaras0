@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 📚 Previous experience:  React, Redux, Node.js, PHP, C language, MySql, CSS, HTML.
 
-- 🌱 I’m currently learning: React, Redux, Node.js
-
 - 📫 How to reach me: 
  💌 anamaria.finn0@gmail.com
 
