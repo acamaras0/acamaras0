@@ -1,6 +1,6 @@
 ![This is an image](https://github.com/acamaras0/acamaras0/blob/main/img/banner.png)
 
-<p>
+<p align-items="start">
       <h1>Check out my Portfolio <a href="https://acamaras0.github.io/portfolio-anamaria_camarasan/">here</a>!</h1>
       <h1> Languages </h1>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" height="30" title="hover text">
