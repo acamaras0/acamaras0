@@ -5,11 +5,9 @@
 </p>
 <p>
       <h1> Languages </h1>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" height="30" title="react"/>
-
 </p>
-
 <p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" height="30" title="react"/>
       <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30" height="30" title="redux">
       <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="30" height="30" title="nodejs"/>
       <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width="30" height="30" title="javascript"/>
