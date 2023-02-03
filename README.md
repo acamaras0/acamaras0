@@ -1,4 +1,7 @@
-### Hi there 👋
+![This is an image](https://github.com/acamaras0/matcha/blob/main/img/banner.png)
+
+
+
 - Check out my portfolio by clicking this link : [Portfolio](https://acamaras0.github.io/portfolio-anamaria_camarasan/)
 
 - 📚 Previous experience:  React, Redux, Node.js, PHP, C language, PostgreSQL, CSS, HTML.
