@@ -1,10 +1,16 @@
 ![This is an image](https://github.com/acamaras0/acamaras0/blob/main/img/banner.png)
 
 <p>
-      <h1>Check out my Portfolio <a href="https://acamaras0.github.io/portfolio-anamaria_camarasan/">here</a>!</h1>
+  <h1>Check out my Portfolio <a href="https://acamaras0.github.io/portfolio-anamaria_camarasan/">here</a>!</h1>
+</p>
+<p>
       <h1> Languages </h1>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" height="30" title="react"/>
       <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30" height="30" title="redux">
+
+</p>
+
+<p>
       <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="30" height="30" title="nodejs"/>
       <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width="30" height="30" title="javascript"/>
       <img src="https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667" width="30" height="30" title="typescript"/>
@@ -23,6 +29,7 @@
       <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="30" height="30" title="instagram"></a>
       <a href="https://www.facebook.com/anna.tellervo/">
       <img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" width="30" height="30" title="facebook"></a>
+
 </p>
 
 <!--
