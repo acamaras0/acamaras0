@@ -1,10 +1,10 @@
 ![This is an image](https://github.com/acamaras0/acamaras0/blob/main/img/banner.png)
 
 <p>
-  <h1>Check out my Portfolio <a href="https://acamaras0.github.io/portfolio-anamaria_camarasan/">here</a>!</h1>
+  <h1>Check out my Portfolio <a href="https://acamaras0.github.io/portfolio-anamaria_camarasan/">✨here✨</a>!</h1>
 </p>
 <p>
-      <h1> Languages </h1>
+    <h1>Languages</h1>
 </p>
 <p>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" height="30" title="react"/>
@@ -19,6 +19,8 @@
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" height="30" title="git">
       <img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" width="30" height="30" title="linux">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="30" height="30" title="c">
+</p>
+<p>
       <h1> How to reach me</h1>
       <h3>📫 anamaria.finn0@gmail.com</h3>
       <a href="https://www.linkedin.com/in/anamaria-camarasan-179615244/">
