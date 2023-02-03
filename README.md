@@ -4,9 +4,9 @@
   <h1 align="center">Check out my Portfolio <a href="https://acamaras0.github.io/portfolio-anamaria_camarasan/">✨here✨</a>!</h1>
 </p>
 <p align="center">
-    <h1>Languages</h1>
+    <h1 align="center">Languages</h1>
 </p>
-<p>
+<p align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" height="30" title="react"/>
       <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30" height="30" title="redux">
       <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="30" height="30" title="nodejs"/>
@@ -20,9 +20,9 @@
       <img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" width="30" height="30" title="linux">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="30" height="30" title="c">
 </p>
-<p>
-      <h1> How to reach me</h1>
-      <h3>📫 anamaria.finn0@gmail.com</h3>
+<p align="center">
+      <h1 align="center"> How to reach me</h1>
+      <h3 align="center">📫 anamaria.finn0@gmail.com</h3>
       <a href="https://www.linkedin.com/in/anamaria-camarasan-179615244/">
       <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30" height="30" title="linkedin"></a>
       <a href="https://www.instagram.com/anamaria.cmrs/">
