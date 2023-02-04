@@ -4,7 +4,7 @@
   <h1 align="center">Check out my Portfolio <a href="https://acamaras0.github.io/portfolio-anamaria_camarasan/">✨here✨</a>!</h1>
 </p>
 <p align="center">
-    <h1 align="center">Languages</h1>
+    <h2 align="center">Technologies</h2>
 </p>
 <p align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" height="30" title="react"/>
@@ -22,7 +22,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="30" height="30" title="c">
 </p>
 <p align="center">
-      <h1 align="center"> How to reach me</h1>
+      <h2 align="center"> How to reach me</h2>
       <h3 align="center">📫 anamaria.finn0@gmail.com</h3>
       <a href="https://www.linkedin.com/in/anamaria-camarasan-179615244/">
       <p align="center">
