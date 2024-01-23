@@ -23,8 +23,8 @@
 <p align="center">
       <h2 align="center"> How to reach me</h2>
       <h3 align="center">📫 anamaria.finn0@gmail.com</h3>
-      <a href="https://www.linkedin.com/in/anamaria-camarasan-179615244/">
       <p align="center">
+      <a href="https://www.linkedin.com/in/anamaria-camarasan-179615244/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" title="linkedin"></a>
       <a href="https://www.instagram.com/anamaria.cmrs/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png?20210403190622" width="30" height="30" title="instagram"></a>
