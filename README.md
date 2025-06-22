@@ -1,7 +1,7 @@
 ![This is an image](https://github.com/acamaras0/acamaras0/blob/main/img/banner.png)
 
 <p align="center">
-  <h1 align="center">Check out my Portfolio <a href="https://acamaras0.github.io/anamaria_camarasan/">✨here✨</a>!</h1>
+  <h1 align="center">Check out my Portfolio <a href="https://acamaras0.github.io/anamaria-camarasan/">✨here✨</a>!</h1>
 </p>
 <p align="center">
     <h2 align="center">Technologies</h2>
