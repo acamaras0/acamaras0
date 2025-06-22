@@ -1,7 +1,7 @@
 ![This is an image](https://github.com/acamaras0/acamaras0/blob/main/img/banner.png)
 
 <p align="center">
-  <h1 align="center">Check out my Portfolio <a href="https://acamaras0.github.io/portfolio-anamaria_camarasan/">✨here✨</a>!</h1>
+  <h1 align="center">Check out my Portfolio <a href="https://acamaras0.github.io/anamaria_camarasan/">✨here✨</a>!</h1>
 </p>
 <p align="center">
     <h2 align="center">Technologies</h2>
@@ -22,7 +22,7 @@
 </p>
 <p align="center">
       <h2 align="center"> How to reach me</h2>
-      <h3 align="center">📫 anamaria.finn0@gmail.com</h3>
+      <h3 align="center">📫 anamaria.cmrs@gmail.com</h3>
       <p align="center">
       <a href="https://www.linkedin.com/in/anamaria-camarasan-179615244/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" title="linkedin"></a>
